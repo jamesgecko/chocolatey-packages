@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>brogue</id>
+    <title>Brogue</title>
+    <version>1.7.2</version>
+    <authors>Brian Walker</authors>
+    <owners>jamesgecko</owners>
+    <summary></summary>
+    <description>Brogue is a Roguelike game. It is installed to %ChocolateyInstall%\lib\brogue.1.7.2</description>
+    <projectUrl>https://sites.google.com/site/broguegame/</projectUrl>
+    <tags>brogue roguelike game</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.gnu.org/licenses/agpl-3.0.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/__NAME__/__NAME__.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+    <!--<file src="content\**" target="content" />-->
+  </files>
+</package>
