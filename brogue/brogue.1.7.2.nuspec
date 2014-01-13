@@ -3,11 +3,11 @@
   <metadata>
     <id>brogue</id>
     <title>Brogue</title>
-    <version>1.7.2</version>
+    <version>1.7.3</version>
     <authors>Brian Walker</authors>
     <owners>jamesgecko</owners>
     <summary></summary>
-    <description>Brogue is a Roguelike game. It is installed to %ChocolateyInstall%\lib\brogue.1.7.2</description>
+    <description>Brogue is a Roguelike game. It is installed to %ChocolateyInstall%\lib\brogue.1.7.3</description>
     <projectUrl>https://sites.google.com/site/broguegame/</projectUrl>
     <tags>brogue roguelike game</tags>
     <copyright></copyright>
